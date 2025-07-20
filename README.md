@@ -40,9 +40,9 @@ The script extracts and transfers the following information:
 ## 🚀 Installation
 
 1. **Download the Script**
-   - Copy the AppleScript code from this repository
+   - Download the AppleScript code from this repository
    - Open **Script Editor** (found in Applications > Utilities)
-   - Create a new document and paste the script
+   - Save to a convenient location
 
 2. **Grant Accessibility Permissions**
    - Open **System Preferences** > **Security & Privacy** > **Privacy** tab
@@ -50,12 +50,7 @@ The script extracts and transfers the following information:
    - Click the lock icon and authenticate
    - Add **Script Editor** to the list (click + button)
    - Ensure **Script Editor** is checked ✓
-   - Also ensure **Silverstack** or **Silverstack XT** is in the list and checked
-
-3. **Save the Script**
-   - In Script Editor: File > Save
-   - Choose format: **Script** (.scpt)
-   - Save to a convenient location
+   - Also ensure **Silverstack** and/or **Silverstack XT** is in the list and checked
 
 ## 📖 How to Use
 
