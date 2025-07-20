@@ -159,4 +159,6 @@ This script is provided as-is for use in film/TV production workflows. Feel free
 - For non-standard formats, use the debug menu to test extraction first
 - Save frequently-used scripts as applications for easier access
 
-[![Video](https://vumbnail.com/1102965384.jpg)](https://vimeo.com/1102965384)
+##  
+
+[![Watch the video](https://vumbnail.com/1102965384.jpg)](https://vimeo.com/1102965384)
