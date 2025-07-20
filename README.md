@@ -158,3 +158,5 @@ This script is provided as-is for use in film/TV production workflows. Feel free
 - The script works best with standard Hollywood-format call sheets
 - For non-standard formats, use the debug menu to test extraction first
 - Save frequently-used scripts as applications for easier access
+
+[![Video](https://vumbnail.com/1102965384.jpg)](https://vimeo.com/1102965384)
