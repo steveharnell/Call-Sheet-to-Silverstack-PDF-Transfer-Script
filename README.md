@@ -40,7 +40,7 @@ The script extracts and transfers the following information:
 ## 🚀 Installation
 
 1. **Download the Script**
-   - Download the AppleScript code from this repository
+   - Download the AppleScript code from this repository ("Download RAW file", DO NOT right click "Save Link as..") 
    - Open **Script Editor** (found in Applications > Utilities)
    - Save to a convenient location
 
